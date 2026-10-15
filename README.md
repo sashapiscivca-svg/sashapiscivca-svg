@@ -36,8 +36,14 @@
 
 Rust · TypeScript · Python · PyTorch → ONNX · WebAssembly · numpy · OpenCV · SQLite · Tauri · Capacitor
 
+### Contact
+
+📫 [sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com): work, collaboration, or questions about the projects. For security issues, please use each repository's private vulnerability reporting.
+
 ### Українською
 
 Роблю відкриті програми, які працюють без інтернету, коли це справді важливо: зір для пошуково-рятувальних дронів, відповіді з власних документів офлайн, навчання для дітей в Україні й затишну гру про містечко Липове. Лише цивільне застосування.
+
+Пишіть: [sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com).
 
 <sub>The banner and the Teul pictures are Teul artwork © the Teul authors, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Fonts: Pixelify Sans, Tiny5, Nunito (SIL OFL 1.1). All images are drawn by [`scripts/make_assets.py`](scripts/make_assets.py).</sub>
