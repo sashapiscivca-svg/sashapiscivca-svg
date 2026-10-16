@@ -4,6 +4,8 @@
 
 <p align="center">I build small, open tools that keep working when the network does not: vision for search-and-rescue drones on a $15 computer, answers from your own documents with no internet, learning for children in Ukraine, and a cozy game about a little Ukrainian town.</p>
 
+<p align="center"><b>Available for MVPs and product work</b> · <a href="#need-an-mvp-or-a-product-built">what I build</a> · <a href="mailto:sasha.piscivca@gmail.com">sasha.piscivca@gmail.com</a></p>
+
 ### Projects
 
 <p align="center">
@@ -36,14 +38,25 @@
 
 Rust · TypeScript · Python · PyTorch → ONNX · WebAssembly · numpy · OpenCV · SQLite · Tauri · Capacitor
 
-### Contact
+### Need an MVP or a product built?
 
-📫 [sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com): work, collaboration, or questions about the projects. For security issues, please use each repository's private vulnerability reporting.
+I take on projects for clients in Ukraine and abroad: from an idea to a working first version, or a finished product.
+
+- **Apps that work offline:** Android, desktop and web from one codebase, with data that stays on the device.
+- **AI on cheap hardware:** computer vision and small models running on a Raspberry Pi or a phone, without a cloud.
+- **Search over your own documents:** answers with exact sources, on a laptop or a mini PC, with no internet.
+- **Games and interactive learning:** browser and mobile, pixel art included.
+
+You get the source code, tests and documentation in English or Ukrainian. Civilian projects only.
+
+📫 **[sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com)**: tell me what you want to build, for whom and by when. For security issues in my repositories, please use their private vulnerability reporting.
 
 ### Українською
 
 Роблю відкриті програми, які працюють без інтернету, коли це справді важливо: зір для пошуково-рятувальних дронів, відповіді з власних документів офлайн, навчання для дітей в Україні й затишну гру про містечко Липове. Лише цивільне застосування.
 
-Пишіть: [sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com).
+**Беру замовлення** від українців та іноземців: MVP або готовий продукт — офлайн-застосунки (Android, комп'ютер, веб), ШІ на дешевому залізі, пошук по власних документах, ігри й навчальні програми. Ви отримуєте вихідний код, тести й документацію. Лише цивільні проєкти.
+
+Пишіть на **[sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com)**: що хочете зробити, для кого й до якого терміну.
 
 <sub>The banner and the Teul pictures are Teul artwork © the Teul authors, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Fonts: Pixelify Sans, Tiny5, Nunito (SIL OFL 1.1). All images are drawn by [`scripts/make_assets.py`](scripts/make_assets.py).</sub>
