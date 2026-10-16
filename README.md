@@ -4,7 +4,7 @@
 
 <p align="center">I build small, open tools that keep working when the network does not: vision for search-and-rescue drones on a $15 computer, answers from your own documents with no internet, learning for children in Ukraine, and a cozy game about a little Ukrainian town.</p>
 
-<p align="center"><b>Available for MVPs and product work</b> · <a href="#need-an-mvp-or-a-product-built">what I build</a> · <a href="mailto:sasha.piscivca@gmail.com">sasha.piscivca@gmail.com</a></p>
+<p align="center"><b>Available for MVPs and product work</b> · <a href="#need-an-mvp-or-a-product-built">what I build</a> · <a href="CASES.md">case studies</a> · <a href="mailto:sasha.piscivca@gmail.com">sasha.piscivca@gmail.com</a></p>
 
 ### Projects
 
@@ -47,7 +47,7 @@ I take on projects for clients in Ukraine and abroad: from an idea to a working 
 - **Search over your own documents:** answers with exact sources, on a laptop or a mini PC, with no internet.
 - **Games and interactive learning:** browser and mobile, pixel art included.
 
-You get the source code, tests and documentation in English or Ukrainian. Civilian projects only.
+You get the source code, tests and documentation in English or Ukrainian. Civilian projects only. How past projects went: **[case studies](CASES.md)**.
 
 📫 **[sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com)**: tell me what you want to build, for whom and by when. For security issues in my repositories, please use their private vulnerability reporting.
 
@@ -55,7 +55,7 @@ You get the source code, tests and documentation in English or Ukrainian. Civili
 
 Роблю відкриті програми, які працюють без інтернету, коли це справді важливо: зір для пошуково-рятувальних дронів, відповіді з власних документів офлайн, навчання для дітей в Україні й затишну гру про містечко Липове. Лише цивільне застосування.
 
-**Беру замовлення** від українців та іноземців: MVP або готовий продукт — офлайн-застосунки (Android, комп'ютер, веб), ШІ на дешевому залізі, пошук по власних документах, ігри й навчальні програми. Ви отримуєте вихідний код, тести й документацію. Лише цивільні проєкти.
+**Беру замовлення** від українців та іноземців: MVP або готовий продукт — офлайн-застосунки (Android, комп'ютер, веб), ШІ на дешевому залізі, пошук по власних документах, ігри й навчальні програми. Ви отримуєте вихідний код, тести й документацію. Лише цивільні проєкти. Як ішли попередні проєкти — **[кейси](CASES.uk.md)**.
 
 Пишіть на **[sasha.piscivca@gmail.com](mailto:sasha.piscivca@gmail.com)**: що хочете зробити, для кого й до якого терміну.
 
